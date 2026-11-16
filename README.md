@@ -14,7 +14,11 @@
 
 安装字体后，重新打开 Word 等软件即可选择。支持简繁及部分异体字输入；遇到多义字或一简对多繁的情况，建议使用准确的繁体或古字输入，并按文意校稿。
 
-字体文件将通过本仓库的 [Releases](https://github.com/3SamuelW/yuquan-xiaozhuan/releases) 提供。当前尚未发布可下载的发行包。
+当前预发行版：**v0.5.2 RC1**。
+
+**[下载字体（TTF）](https://github.com/3SamuelW/yuquan-xiaozhuan/releases/download/v0.5.2-rc1/YuquanNewXiaozhuan-0.5.2-rc1.ttf)** · [查看版本说明](https://github.com/3SamuelW/yuquan-xiaozhuan/releases/tag/v0.5.2-rc1)
+
+下载 `.ttf` 文件后，右键选择“安装”；安装完成后重新打开 Word，在字体列表中选择“玉泉新小篆”。更新已有版本时，如系统提示替换，请选择替换。
 
 ## 问题反馈
 
