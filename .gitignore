@@ -1,0 +1,16 @@
+# Public repository allowlist. All working materials remain local.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/NOTICE.md
+!/assets/
+/assets/*
+!/assets/preview.png
+
+# Fonts are distributed separately from Git history.
+*.ttf
+*.otf
+*.ttc
+*.woff
+*.woff2
